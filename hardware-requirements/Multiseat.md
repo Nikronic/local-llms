@@ -7,3 +7,4 @@
 
 ![[multipoint-sample-config-schematic.excalidraw|700]]
 
+You can find a small report of our needs and what we think would be a good solution [[graphics-server.pdf|here (Farsi)]].
